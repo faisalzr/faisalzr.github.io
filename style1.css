@@ -76,7 +76,7 @@ h1, h2, h3, h4, h5, h6, p {
 
 
 #headerwrap {
-	background: url(bg.jpg) no-repeat center top;
+	background: url(bg1.jpg) no-repeat center top;
 	margin-top: -70px;
 	padding-top: 250px;
 	text-align:center;
@@ -124,7 +124,7 @@ h1, h2, h3, h4, h5, h6, p {
 }
 
 #workwrap {	
-	background: url(bg.jpg) no-repeat center top;
+	background: url(bg1.jpg) no-repeat center top;
 	margin-top: -70px;
 	padding-top: 250px;
 	text-align:center;
@@ -159,7 +159,7 @@ h1, h2, h3, h4, h5, h6, p {
 }
 
 #aboutwrap {	
-	background: url(bg.jpg) no-repeat center top;
+	background: url(bg1.jpg) no-repeat center top;
 	margin-top: -70px;
 	padding-top: 250px;
 	text-align:center;
